@@ -4,6 +4,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7BE0B&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+GTI;Explorando+o+mundo+da+tecnologia!">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</p>
+<p align="center"><blink>🔥 Código, Café e Criatividade! 🔥</blink></p>
+<img src="https://raw.githubusercontent.com/VicMalac/VicMalac/main/assets/floating-text.svg">
 
 ## 👋 Sobre mim  
 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista

@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Sobre mim  
-🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** na FATEC  
+🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista
 📚 Atualmente estudando **CS50, Git, Cloud e IA**  
 💡 Sempre explorando novas tecnologias e desafios  
 

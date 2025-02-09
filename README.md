@@ -4,58 +4,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
-<p style="animation: fadeIn 2s;">
-  🚀 Estudante de GTI | Explorando o Mundo da Tecnologia
-</p>
-<p style="animation: slide 5s infinite;">
-  💡 Apresentando ideias inovadoras no GitHub!
-</p>
-
-<style>
-@keyframes slide {
-  from {transform: translateX(100%);}
-  to {transform: translateX(-100%);}
-}
-</style>
-<p style="text-shadow: 2px 2px 4px #000000;">
-  ✨ Texto com Sombra
-</p>
-<p style="font-size: 30px; background: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">
-  🌈 Texto com Efeito Arco-íris!
-</p>
-<p id="typing-text"></p>
-
-<script>
-  const text = "Estou criando um README animado!";
-  let i = 0;
-  function type() {
-    if (i < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(type, 100);
-    }
-  }
-  type();
-</script>
-<p id="typing-text"></p>
-
-<script>
-  const text = "Estou criando um README animado!";
-  let i = 0;
-  function type() {
-    if (i < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(type, 100);
-    }
-  }
-  type();
-</script>
-<p style="filter: blur(3px);">
-  🌟 Texto com Efeito de Borrão!
-</p>
-
-<p align="center"><blink>🔥 Código, Café e Criatividade! 🔥</blink></p>
 
 ## 👋 Sobre mim  
 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista

@@ -23,6 +23,9 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VicMalac&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=VicMalac&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VicMalac&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VicMalac&theme=radical">
 </div>  
 
 <!-- Contato -->

@@ -22,7 +22,7 @@
 <!-- Estatísticas -->
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormalachias&show_icons=true&theme=radical&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicMalac&show_icons=true&theme=radical&hide_border=true&count_private=true">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victormalachias&theme=radical&hide_border=true">
 </div>  
 

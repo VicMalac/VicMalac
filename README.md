@@ -5,7 +5,7 @@
 
 <!-- Sobre mim -->
 ## 👋 Sobre mim  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Gestão da Tecnologia da Informação** 
 📚 Atualmente estudando **CS50, Git, Cloud e IA**  
 💡 Sempre explorando novas tecnologias e desafios  
 

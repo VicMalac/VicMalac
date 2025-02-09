@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7BE0B&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+GTI;Explorando+o+mundo+da+tecnologia!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7BE0B&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=500&lines=Estudante+de+GTI">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=33FF57&center=true&vCenter=true&width=500&lines=Explorando+o+mundo+da+tecnologia!">
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>

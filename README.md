@@ -1,15 +1,12 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7BE0B&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+GTI;Explorando+o+mundo+da+tecnologia!">
 </p>
 
-<!-- Sobre mim -->
 ## 👋 Sobre mim  
 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** na FATEC  
 📚 Atualmente estudando **CS50, Git, Cloud e IA**  
 💡 Sempre explorando novas tecnologias e desafios  
 
-<!-- Tecnologias -->
 ## 🚀 Tecnologias e Ferramentas  
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -19,20 +16,13 @@
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>  
 
-<!-- Estatísticas -->
 ## 📊 GitHub Stats  
 <div align="center">
-  <!-- Estatísticas completas -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VicMalac&theme=radical">
-
-  <!-- Streak atual e maior streak -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VicMalac&theme=radical">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicMalac&theme=radical&hide_border=true">
-  
-  <!-- Linguagens mais utilizadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&layout=compact&langs_count=8&theme=radical&hide_border=true">
 </div>  
 
-<!-- Contato -->
 ## 📬 Contato  
 📧 Email: **devictor2202@gmail.com**  
 📌 Bragança Paulista, Brasil  

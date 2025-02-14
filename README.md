@@ -24,7 +24,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VicMalac&theme=radical">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicMalac&theme=radical&hide_border=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&layout=compact&langs_count=8&theme=radical&hide_border=true">
+</div>  
 ## 📬 Contato  
 📧 Email: **devictor2202@gmail.com**  
 📌 Bragança Paulista, Brasil  

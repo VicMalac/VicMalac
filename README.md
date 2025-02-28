@@ -31,7 +31,7 @@
 ## 📬 Contato  
 📧 Email: **devictor2202@gmail.com**  
 📌 Bragança Paulista, Brasil  
-💼 [LinkedIn](https://www.linkedin.com/in/victor-pereira-560885286/)  
+💼 [LinkedIn](https://www.linkedin.com/in/vicmalac/)  
 
 ---
 

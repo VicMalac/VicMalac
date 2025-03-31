@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim  
 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista <br>
-📚 Atualmente estudando **CS50, Git, Cloud e IA**  <br>
+📚 Atualmente estudando **Python, C, Git e IA**  <br>
 💡 Sempre explorando novas tecnologias e desafios  
 
 ## 🚀 Tecnologias e Ferramentas  
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>  
 

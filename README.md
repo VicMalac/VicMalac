@@ -13,11 +13,31 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <!-- C -->
+<span style="display:inline-flex; align-items:center; background:#00599C; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right:6px;">
+</span>
+
+<!-- C# -->
+<span style="display:inline-flex; align-items:center; background:#239120; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right:6px;">
+</span>
+
+<!-- Python -->
+<span style="display:inline-flex; align-items:center; background:#3670A0; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:6px;">
+</span>
+
+<!-- Git -->
+<span style="display:inline-flex; align-items:center; background:#F05032; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:6px;">
+</span>
+
+<!-- Cloud -->
+<span style="display:inline-flex; align-items:center; background:#4285F4; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" style="margin-right:6px;">
+</span>
+
 </div>  
 
 ## 📊 GitHub Stats  

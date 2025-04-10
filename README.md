@@ -33,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:6px;">
 </span>
 
-<!-- Iinteligência Artificial -->
+<!-- Inteligência Artificial -->
   <span style="display:inline-flex; align-items:center; background:#00599C; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-bb20-61f7-948b-989caf59d68d/raw?se=2025-04-10T15%3A39%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=ad75e2d4-c270-5efa-b93c-51ca3c702951&skoid=fa7966e7-f8ea-483c-919a-13acfd61d696&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-10T13%3A25%3A20Z&ske=2025-04-11T13%3A25%3A20Z&sks=b&skv=2024-08-04&sig=h6QiZYyBWGkape2KELuAzct6ks9xiRqNyleTlVZiyA0%3D" alt="IA" width="40" height="40" style="margin-right:6px;">
+  <img src="https://raw.githubusercontent.com/VicMalac/FATECcode/refs/heads/main/ChatGPT%20Image%2010%20de%20abr.%20de%202025%2C%2011_47_49.png?token=GHSAT0AAAAAADAR2QVMWIB2SHDV3WMWPQAGZ7X5DLQ" alt="IA" width="50" height="50" style="margin-right:6px;">
 </span>
 
 <!-- Cloud -->

@@ -33,10 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:6px;">
 </span>
 
-<!-- Inteligência Artificial -->
-  <span style="display:inline-flex; align-items:center; background:#00599C; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://raw.githubusercontent.com/VicMalac/FATECcode/refs/heads/main/ChatGPT%20Image%2010%20de%20abr.%20de%202025%2C%2011_47_49.png?token=GHSAT0AAAAAADAR2QVMWIB2SHDV3WMWPQAGZ7X5DLQ" alt="IA" width="50" height="50" style="margin-right:6px;">
-</span>
 
 <!-- Cloud -->
 <span style="display:inline-flex; align-items:center; background:#4285F4; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">

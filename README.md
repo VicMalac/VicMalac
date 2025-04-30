@@ -43,7 +43,6 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VicMalac&theme=radical">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&layout=compact&langs_count=8&theme=radical&hide_border=true">
@@ -51,7 +50,7 @@
 
 ## 🔥 Streak de Contribuições
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VicMalac&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=VicMalac&theme=highcontrast&hide_border=true" alt="Streak de Contribuições"/>
 </div>
 
 ## 📬 Contato  

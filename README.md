@@ -49,6 +49,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&layout=compact&langs_count=8&theme=radical&hide_border=true">
 </div>
 
+## 🔥 Streak de Contribuições
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=VicMalac&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
+</div>
+
 ## 📬 Contato  
 📧 Email: **devictor2202@gmail.com**  
 📌 Bragança Paulista, Brasil  

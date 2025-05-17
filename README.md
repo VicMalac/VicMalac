@@ -11,35 +11,13 @@
 📚 Linguagens e tecnologias com as quais trabalho: Python, C, C#, Git e Inteligência Artificial. <br>
 💡 Sempre explorando novas tecnologias e desafios  
 
-## 🚀 Tecnologias e Ferramentas  
-<div align="center">
-  <!-- C -->
-<span style="display:inline-flex; align-items:center; background:#00599C; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right:6px;">
-</span>
-
-<!-- C# -->
-<span style="display:inline-flex; align-items:center; background:#239120; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right:6px;">
-</span>
-
-<!-- Python -->
-<span style="display:inline-flex; align-items:center; background:#3670A0; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:6px;">
-</span>
-
-<!-- Git -->
-<span style="display:inline-flex; align-items:center; background:#F05032; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:6px;">
-</span>
-
-
-<!-- Cloud -->
-<span style="display:inline-flex; align-items:center; background:#4285F4; color:white; border-radius:6px; padding:6px 10px; font-family:sans-serif; font-size:14px;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" style="margin-right:6px;">
-</span>
-
-</div>  
+## 🚀 Tecnologias e Ferramentas
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" /> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" /> 
+</p>
 
 ## 📊 GitHub Stats  
 <div align="center">

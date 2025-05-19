@@ -31,4 +31,6 @@
 
 ---
 
-🌟 **_"O único modo de fazer um excelente trabalho é amar o que você faz."_** – Steve Jobs  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=O%20%C3%BAnico%20modo%20de%20fazer%20um%20excelente%20trabalho%20%C3%A9%20amar%20o%20que%20voc%C3%AA%20faz.&author=Steve%20Jobs" />
+</p>

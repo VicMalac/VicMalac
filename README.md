@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mim  
 🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista <br>
-📚 Linguagens e tecnologias com as quais trabalho: Python, C, C#, Git e Inteligência Artificial. <br>
+📚 Linguagens e tecnologias com as quais trabalho: Python, C, C# e Agentes de IA. <br>
 💡 Sempre explorando novas tecnologias e desafios  
 
 ## 🚀 Tecnologias e Ferramentas que uso

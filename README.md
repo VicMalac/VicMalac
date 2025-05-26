@@ -21,7 +21,7 @@
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=VicMalac&show_icons=true&theme=midnight-purple&custom_title=&hide=stars&locale=pt-br">
   <br>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&hide_progress=false&title_color=f2eee8&bg_color=0d1117&text_color=fff&custom_title=Linguagens%20Mais%20Usadas&&hide=html,css">
-  <img height="195px" src="https://streak-stats.demolab.com/?user=VicMalac&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF&locale=pt-br"/>
+  <img height="195px" src="https://streak-stats.demolab.com?user=VicMalac&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF&locale=pt-br"/>
 </div>
 
 ## 📬 Contato  

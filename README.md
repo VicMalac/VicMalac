@@ -24,7 +24,7 @@
   <img height="195px" src="https://streak-stats.demolab.com?user=VicMalac&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF&locale=pt-br"/>
 </div>
 
-## 📬 Contato  
+## 📬 Contato   
 📧 Email: **devictor2202@gmail.com**  
 📌 Bragança Paulista, Brasil  
 💼 [LinkedIn](https://www.linkedin.com/in/vicmalac/)  

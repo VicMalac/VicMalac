@@ -13,7 +13,7 @@
 
 ## 🚀 Tecnologias e Ferramentas que uso
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,git,gcp,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs,js,git,gcp,vscode,github" />
 </p>
 
 ## 📊 GitHub Stats  

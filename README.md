@@ -1,36 +1,91 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=F7BE0B&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o;Explorando+o+Mundo+da+Tecnologia!">
-</p>
+# Victor Pereira
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
+Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista e desenvolvedor em constante evolução.  
+Uso este GitHub como espaço para **estudos, experimentação e aplicação prática**.  
+Grande parte dos projetos aqui foram criados inicialmente como aprendizado — e depois evoluíram até se tornarem **sistemas reais utilizados no meu trabalho**.
 
-## 👋 Sobre mim  
-🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista <br>
-📚 Linguagens e tecnologias com as quais trabalho: Python, C, C# e Agentes de IA. <br>
-💡 Sempre explorando novas tecnologias e desafios  
-
-## 🚀 Tecnologias e Ferramentas que uso
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,js,git,gcp,vscode,github" />
-</p>
-
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=VicMalac&show_icons=true&theme=midnight-purple&custom_title=&hide=stars&locale=pt-br">
-  <br>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&hide_progress=false&title_color=f2eee8&bg_color=0d1117&text_color=fff&custom_title=Linguagens%20Mais%20Usadas&&hide=html,css">
-  <img height="195px" src="https://streak-stats.demolab.com?user=VicMalac&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF&locale=pt-br"/>
-</div>
-
-## 📬 Contato   
-📧 Email: **devictor2202@gmail.com**  
-📌 Bragança Paulista, Brasil  
-💼 [LinkedIn](https://www.linkedin.com/in/vicmalac/)  
+Meu foco é transformar conhecimento técnico em soluções que resolvem problemas do dia a dia.
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&quote=O%20%C3%BAnico%20modo%20de%20fazer%20um%20excelente%20trabalho%20%C3%A9%20amar%20o%20que%20voc%C3%AA%20faz.&author=Steve%20Jobs" />
+## 🧠 Meu Foco
+- Desenvolvimento de sistemas internos  
+- Automatização de processos  
+- Arquitetura e organização de aplicações  
+- IA aplicada e agentes autônomos  
+- Uso de cloud para soluções práticas  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas que Utilizo e Estudo
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cs,js,nodejs,git,firebase,gcp,vscode,github" />
 </p>
+
+---
+
+# 🧩 Projetos de Estudos Aplicados ao Trabalho
+
+Estes projetos começaram como aprendizado e foram aprimorados até serem implantados em uma empresa real.  
+Meu objetivo aqui não é exibir resultados corporativos, mas registrar a **evolução técnica e prática** envolvida em cada sistema.
+
+---
+
+## 🔹 Sistema de Garantias e Gestão de Ciclos  
+**Origem:** Projeto de estudo → Evoluiu para sistema em produção  
+**Propósito:** Aprender fluxo de dados, regras de negócio, assinaturas digitais e organização lógica.  
+
+**Conceitos estudados e aplicados:**
+- Estruturação de CRUDs completos  
+- Agrupamento por ciclos (ex.: 70 peças no mesmo processo)  
+- Lógica de aprovação e controle de status  
+- Assinatura eletrônica com envio automático de comprovante  
+- Modelagem de regras de negócio reais  
+
+Esse projeto demonstra como estudo e prática se encontram, resultando em algo funcional.
+
+---
+
+## 🔹 Sistema Interno de RH  
+**Origem:** Aprendizado sobre organização de dados e automação  
+**Resultado:** Sistema utilizado diariamente no trabalho  
+
+**Conceitos estudados e aplicados:**
+- KPIs internos e métricas de desempenho  
+- Estruturação de PDI (Plano de Desenvolvimento Individual)  
+- Controle de férias, períodos e ocorrências  
+- Criação de relatórios automáticos  
+- Boas práticas de lógica e arquitetura simples  
+
+Aqui, cada funcionalidade nasceu de um conceito estudado e depois aplicado à necessidade real.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=VicMalac&show_icons=true&theme=transparent&hide=stars&locale=pt-br" />
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicMalac&layout=compact&theme=transparent&locale=pt-br&hide=html,css" />
+
+</div>
+
+---
+
+## 📝 Meu Modelo de Estudo
+- Aprendo conceitos, aplico em projetos reais e refatoro conforme evoluo  
+- Transformo teoria em prática por meio de sistemas internos  
+- Recrio soluções para entender melhor seus fundamentos  
+
+---
+
+## 📬 Contato Profissional
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/vicmalac/  
+📧 **devictor2202@gmail.com**
+
+---
+
+> “Aprender é dominar o suficiente para transformar teoria em solução — e solução em impacto.”
+

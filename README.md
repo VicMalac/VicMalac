@@ -1,102 +1,177 @@
 # Victor Pereira
 
-Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista e desenvolvedor em constante evolução.  
-Uso este GitHub como espaço para **estudos, experimentação e aplicação prática**.  
-Grande parte dos projetos aqui foram criados inicialmente como aprendizado — e depois evoluíram até se tornarem **sistemas reais utilizados no meu trabalho**.
+Estudante de **Gestão da Tecnologia da Informação (GTI)** pela FATEC Bragança Paulista  
+Desenvolvedor focado em **transformar problemas reais em sistemas funcionais**
 
-Meu foco é transformar conhecimento técnico em soluções que resolvem problemas do dia a dia.
+Meu GitHub é um laboratório prático onde estudo arquitetura de software, automação e desenvolvimento de sistemas aplicados ao ambiente corporativo.
 
----
-
-## 🧠 Meu Foco
-- Desenvolvimento de sistemas internos  
-- Automatização de processos  
-- Arquitetura e organização de aplicações  
-- IA aplicada e agentes autônomos  
-- Uso de cloud para soluções práticas  
+Grande parte dos projetos aqui começaram como **experimentos de estudo** e evoluíram até se tornarem **sistemas utilizados no dia a dia de uma empresa real**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que Utilizo e Estudo
+# 🚀 Áreas de Interesse
+
+- Desenvolvimento de sistemas internos
+- Automação de processos empresariais
+- Arquitetura e organização de aplicações
+- Integração entre sistemas
+- Inteligência artificial aplicada
+- Cloud computing aplicada a soluções práticas
+
+---
+
+# 🧠 Filosofia de Aprendizado
+
+Meu método de aprendizado é baseado em **engenharia reversa e aplicação prática**.
+
+1. Estudo um conceito técnico  
+2. Implemento em um projeto real  
+3. Refatoro conforme ganho maturidade técnica  
+4. Evoluo o sistema até torná-lo utilizável no mundo real
+
+Esse processo transforma teoria em **software funcional e útil**.
+
+---
+
+# 🛠 Tecnologias e Ferramentas
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cs,js,nodejs,git,firebase,gcp,vscode,github" />
+<img src="https://skillicons.dev/icons?i=python,c,cs,js,nodejs,git,firebase,gcp,vscode,github" />
 </p>
 
----
+### Tecnologias que utilizo com frequência
 
-# 🧩 Projetos de Estudos Aplicados ao Trabalho
+- **JavaScript**
+- **Node.js**
+- **Firebase (Auth, Firestore, Functions)**
+- **Cloud Functions**
+- **Git e GitHub**
+- **Integração de APIs**
+- **Arquitetura de sistemas internos**
 
-Estes projetos começaram como aprendizado e foram aprimorados até serem implantados em uma empresa real.  
-Meu objetivo aqui não é exibir resultados corporativos, mas registrar a **evolução técnica e prática** envolvida em cada sistema.
+### Ferramentas e bibliotecas usadas em projetos
 
-
-
-## Sistema de Garantias e Gestão de Ciclos
-
-**Origem:** Projeto de estudo – Evoluiu para sistema em produção
-**Propósito:** Aprender fluxo de dados, regras de negócio, assinaturas digitais e organização lógica.  
-
-**Conceitos estudados e aplicados:**
-- Estruturação de CRUDs completos  
-- Agrupamento por ciclos (ex.: 70 peças no mesmo processo)  
-- Lógica de aprovação e controle de status  
-- Assinatura eletrônica com envio automático de comprovante  
-- Modelagem de regras de negócio reais de regras de negócio reais
--  Controle de receitas e despesas de garantias e orçamentos
- 
-Atualmente, o sistema em produção ajuda a Via Dolce Joias a visualizar quanto está gastando e lucrando com as garantias e orçamentos, oferecendo transparência e controle financeiro.
-
-Esse projeto demonstra como estudo e prática se encontram, resultando em algo funcional.
-## ・ Sistema Interno de RH → Claritio
-**Origem:** Projeto de estudo — evoluiu para produto real Claritio ([claritio.com.br](https://claritio.com.br/)), utilizado diariamente no trabalho
-**Propósito:** Modernizar e automatizar processos de RH, PDI e finanças, centralizando dados e dashboards
-*
-- KPIs internos e métricas de desempenho
-- Estruturação de PDI (Plano de Desenvolvimento Individual)
-- Controle de férias, períodos e ocorrências
-- Criação de relatórios automáticos
-- 
-## ・ Sistema de Ocorrências e PDI
-**Origem:** Projeto para digitalizar o controle de ocorrências e implementar PDI
-**Propósito:** Substituir planilhas manuais por um sistema integrado de gestão de ocorrências e PDI, centralizando dados de RH
-**Conceitos estudados e aplicados:**
-- Dashboards com KPIs e ranking de causas de ocorrências
-- Integração com FullCalendar e Firebase/Firestore para cadastro de eventos e férias
-- Relatórios de PDI com Chart.js e histograma de score
-- Módulo financeiro com jsPDF para geração de relatórios e controle de custos
-- Uso de Tailwind CSS, Flowbite, Chart.js, jsPDF, Lucide Icons e Firebase/Firestore
-**Resultado:** O sistema substitui planilhas e centraliza informações de RH, agilizando processos e permitindo análises históricas
+- Chart.js
+- Tailwind CSS
+- Flowbite
+- FullCalendar
+- jsPDF
+- Lucide Icons
 
 ---
 
-## ・ Sistema de Gestão de Documentos
-**Origem:** Necessidade de gerenciar contratos e documentação de clientes de forma segura e centralizada
-**Propósito:** Integrar um formulário do Jotform com geração e assinatura de contratos via ZapSign, centralizando todo o fluxo de documentos em um único sistema
-**Conceitos estudados e aplicados:**
-- Integração com Jotform para capturar dados de clientes
-- Fluxo de aprovação do setor comercial antes da geração do contrato
-- Geração automática de contratos e envio para assinatura via ZapSign
-- Controle de acesso com segurança, centralizando documentos e reduzindo riscos
-- Planejamento para integração futura com Serasa para verificação de crédito
-**Resultado:** O processo de contratação passa a ser seguro e centralizado, substituindo a manipulação manual de dados e preparando o caminho para integrações financeiras
+# 🧩 Projetos Aplicados ao Mundo Real
+
+Os projetos abaixo nasceram como **estudo**, mas foram evoluindo até se tornarem **sistemas utilizados em ambiente corporativo**.
 
 ---
 
-## ・ Sistema de Personalizados
-**Origem:** Planilha com milhares de linhas para controle de personalizações de clientes
-**Propósito:** Criar um sistema que permita registrar e acompanhar pedidos de personalizados com preços, fotos e controle de produção
-**Conceitos estudados e aplicados:**
-- Registro do atendente e log de operações para auditoria
-- Tabela de status (novo, em produção, concluído) com filtros e exportação de dados
-- Módulo administrativo para criar itens, vincular campos e personalizar o formulário
-- Utilização de Firebase para persistência e sincronização em tempo real
-**Resultado:** O sistema substituiu uma planilha de 8 mil linhas, trazendo organização por status, visibilidade dos pedidos e exportação/importação de dados
+# Sistema de Garantias e Gestão de Ciclos
 
+**Objetivo:**  
+Controlar processos de garantia e orçamento de produtos, permitindo acompanhamento financeiro e organizacional.
 
+### Problema
+
+O controle era feito manualmente e dificultava visualizar custos, receitas e volume de processos.
+
+### Solução
+
+Criação de um sistema com:
+
+- CRUD completo de processos
+- Agrupamento de peças por ciclo (ex.: 70 peças no mesmo processo)
+- Controle de status e aprovação
+- Assinatura eletrônica
+- Envio automático de comprovantes
+- Controle financeiro de garantias e orçamentos
+
+### Resultado
+
+O sistema passou a permitir **visão clara do custo e lucro de processos de garantia**, trazendo mais transparência para decisões operacionais.
 
 ---
 
-## 📊 Estatísticas do GitHub
+# Sistema de Ocorrências e PDI
+
+**Objetivo:**  
+Digitalizar o controle de ocorrências e implementar gestão de PDI (Plano de Desenvolvimento Individual).
+
+### Problema
+
+O processo era controlado por planilhas, dificultando análise histórica e acompanhamento.
+
+### Solução
+
+Sistema com:
+
+- Dashboard de indicadores
+- Ranking de causas de ocorrências
+- Agenda de eventos e férias
+- Relatórios de desempenho
+- Controle financeiro de treinamentos e PDIs
+
+### Tecnologias utilizadas
+
+- Firebase / Firestore
+- FullCalendar
+- Chart.js
+- jsPDF
+- Tailwind CSS
+
+### Resultado
+
+O sistema substituiu planilhas e passou a centralizar as informações de RH em uma única plataforma.
+
+---
+
+# Sistema de Gestão de Documentos
+
+**Objetivo:**  
+Centralizar contratos e documentos de clientes em um fluxo digital seguro.
+
+### Fluxo do sistema
+
+1. Captura de dados via formulário (Jotform)
+2. Análise e aprovação comercial
+3. Geração automática do contrato
+4. Envio para assinatura digital
+5. Armazenamento seguro do documento
+
+### Integrações utilizadas
+
+- Jotform
+- ZapSign
+- APIs externas
+
+### Resultado
+
+Redução de manipulação manual de documentos e maior segurança no processo de contratação.
+
+---
+
+# Sistema de Personalizados
+
+**Objetivo:**  
+Substituir uma planilha com milhares de linhas utilizada para controle de pedidos personalizados.
+
+### Funcionalidades
+
+- Cadastro de pedidos personalizados
+- Upload de fotos
+- Controle de status de produção
+- Registro de atendente
+- Log de alterações
+- Exportação e importação de dados
+- Painel administrativo configurável
+
+### Resultado
+
+Substituição de uma planilha com **mais de 8 mil linhas**, trazendo organização e rastreabilidade aos pedidos.
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -108,19 +183,15 @@ Esse projeto demonstra como estudo e prática se encontram, resultando em algo f
 
 ---
 
-## 📝 Meu Modelo de Estudo
-- Aprendo conceitos, aplico em projetos reais e refatoro conforme evoluo  
-- Transformo teoria em prática por meio de sistemas internos  
-- Recrio soluções para entender melhor seus fundamentos  
+# 📬 Contato
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/vicmalac/
+
+📧 Email  
+devictor2202@gmail.com
 
 ---
 
-## 📬 Contato Profissional
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/vicmalac/  
-📧 **devictor2202@gmail.com**
-
----
-
-> “Aprender é dominar o suficiente para transformar teoria em solução — e solução em impacto.”
-
+> "Aprender tecnologia é importante.  
+> Transformar tecnologia em soluções reais é o que realmente gera impacto."

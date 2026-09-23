@@ -132,8 +132,8 @@ Uso o GitHub principalmente como repositório de desenvolvimento e versionamento
 <h2>Contato</h2>
 
 <p>
-  <strong>Portfólio:</strong> <a href="https://portfolio.claritio.com.br">portfolio.claritio.com.br</a><br>
+  <strong>Portfólio:</strong> <a href="https://claritio.com.br">claritio.com.br</a><br>
   <strong>Email:</strong> contato@claritio.com.br<br>
-  <strong>WhatsApp:</strong> +55 11 97565-8667<br>
+  <strong>WhatsApp:</strong> +55 11 97281-5968<br>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vicmalac">linkedin.com/in/vicmalac</a>
 </p>

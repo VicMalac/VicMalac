@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.claritio.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-portfolio.claritio.com.br-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://claritio.com.br">
+    <img src="https://img.shields.io/badge/claritio.com.br-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vicmalac">
     <img src="https://img.shields.io/badge/LinkedIn-vicmalac-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
